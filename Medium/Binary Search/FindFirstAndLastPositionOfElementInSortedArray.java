@@ -1,4 +1,4 @@
-class 34FindFirstAndLastPositionOfElementInSortedArray {
+class FindFirstAndLastPositionOfElementInSortedArray {
 
     public static void main(String[] args) {
             int[] input = {5,7,7,8,8,10};
