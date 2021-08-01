@@ -12,7 +12,7 @@ import java.util.HashSet;
  * The substring between the first pointer and second pointer is the new max substring
  * Since we're adding and removing values from the set, the size of the set is used to determine the
  * maximum length of any substring that we've found
- * Once the second pointer reaches the end of the string we've searched all possible substrings. 
+ * Once the second pointer reaches the end of the string we've searched all possible max-length substrings. 
  * 
  * 
  * This solution pattern is very simple and can probably translate to solving many different problems.
