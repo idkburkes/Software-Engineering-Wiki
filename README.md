@@ -1,4 +1,4 @@
-![Data Structures & Algorithms](.images/datastructuresalgorithms.png)
+![Data Structures & Algorithms](./images/datastructuresalgorithms.png)
 
 # LeetCode Practice # 
 
@@ -8,5 +8,5 @@
 #215 - KthLargestElementInAnArray| [Problem Description](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | QuickSort | [Java](https://github.com/idkburkes/Study-Of-Algorithms/blob/master/Medium/QuickSort/KthLargestElementInAnArray.java)  |   
 #3 - Longest Substring without Repeating Characters    |  [Problem Description](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium  | Sliding Window | [Java](https://github.com/idkburkes/Study-Of-Algorithms/blob/master/Medium/Sliding%20Window/LongestSubstringWithoutRepeatingCharacter.java) |  
 #151 - Reverse Words in a String | [Problem Description](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Sliding Window | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Medium/Sliding%20Window/ReverseWordsInAString.java) |
-#207 - Course Schedule | [Problem Description](https://leetcode.com/problems/course-schedule/) | Medium | Breadth-First Search | [Java]() | 
-#463 - Island Perimeter | [Problem Description](https://leetcode.com/problems/island-perimeter/) | Easy | Depth-First Search | [Java]() | 
+#207 - Course Schedule | [Problem Description](https://leetcode.com/problems/course-schedule/) | Medium | Breadth-First Search | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Medium/Graph/CourseSchedule.java) | 
+#463 - Island Perimeter | [Problem Description](https://leetcode.com/problems/island-perimeter/) | Easy | Depth-First Search | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Easy/Graph/IslandPerimeter.java) | 
