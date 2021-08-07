@@ -2,7 +2,39 @@
 /**
  * Given a string s, return the longest palindromic substring in s.
  * 
+ * Example 1                          | Example 3 
+ * Input: s = "babad"                 | Input: s = "a"
+ * Output: "bab"                      | Output: "a"
+ * Note: "aba" is also a valid answer.| 
+ *                                    |
+ * Example 2                          |Example 4
+ * Input: s = "cbbd"                  |Input: s = "ac"
+ * Output: "bb"                       |Output: "a"
  * 
+ * 
+ * Solution Pattern: Dynamic Programming 
+ * I used a Dynamic Programming approach by using an auxiliary matrix 
+ * to store if certain substrings were already determined to be palindromes.
+ * All substrings of length 1 are pre-processed in the dp matrix as palindromes.
+ * All substrings of length 2 are pre-processed as palindromes if both chars are the same
+ * All substrings of length >= 3 are designated as palindromes of the starting and ending chars
+ * are the same AND the substrings from index, start + 1 to end -1 has already been evaluated as
+ * a palindrome.
+ * 
+ * 1 = Palindrome, 0 = Not Palindrome
+ * Pre-processing matrix for substrings of length 1 as palindromes, involes fill
+ * indices (0,0), (1,1), (2,2) .... (9,9) with the value of 1
+ * 
+ *     0  1  2  3  4  5  6  7  8  9
+ *    _____________________________
+ *  0|__|__|__|__|__|__|__|__|__|__|
+ *  1|__|__|__|__|__|__|__|__|__|__|
+ *  2|__|__|__|__|__|__|__|__|__|__|
+ *  3|__|__|__|__|__|__|__|__|__|__|
+ *  4|__|__|__|__|__|__|__|__|__|__|
+ *  5|__|__|__|__|__|__|__|__|__|__|
+ *  6|__|__|__|__|__|__|__|__|__|__|
+ *  7|__|__|__|__|__|__|__|__|__|__|
  * 
  */
 
