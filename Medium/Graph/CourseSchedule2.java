@@ -42,7 +42,6 @@ public class CourseSchedule2 {
 
     
 
-
     public static int[] findOrder(int numCourses, int[][] prerequisites) {
         //Edge cases
         if(prerequisites == null || numCourses == 0) {

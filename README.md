@@ -12,3 +12,4 @@
 #463 - Island Perimeter | [Problem Description](https://leetcode.com/problems/island-perimeter/) | Easy | Depth-First Search | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Easy/Graph/IslandPerimeter.java) | 
 #5 - Longest Palindromic Substring | [Problem Description](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Dynamic Programming | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Medium/Dynamic%20Programming/LongestPalindromicSubstring.java) |
 #210 - Course Schedule II | [Problem Description](https://leetcode.com/problems/course-schedule-ii/) | Medium | Breadth-First Search | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Medium/Graph/CourseSchedule2.java)
+#148 Sort List | [Problem Description](https://leetcode.com/problems/sort-list/) | Medium | Merge Sort / LinkedList 2 Pointers | [Java]()
