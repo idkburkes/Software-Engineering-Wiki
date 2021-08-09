@@ -1,4 +1,4 @@
-
+package Solutions.LinkedList;
 
 /**
  * Definition for singly-linked list.
