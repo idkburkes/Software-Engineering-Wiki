@@ -28,7 +28,7 @@
 
 # System Design #
 ---
-![System-Design](./images/systemdesign.png)
+![System-Design](./images/systemdesign.jpeg)
 
 Helpful PDFs/ Articles
 - [Top 10 System Design Interview Questions and Answers - geeksforgeeks](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
