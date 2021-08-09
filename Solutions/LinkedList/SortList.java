@@ -90,6 +90,7 @@ public class SortList {
             currentNode = currentNode.next;
         }
 
+        //First node is empty, second node is the beginning of our sorted linked list
         return sorted.next;
     }
 
