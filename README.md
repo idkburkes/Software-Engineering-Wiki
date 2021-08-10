@@ -1,7 +1,6 @@
 
 
 # Object Oriented Programming #
-
 ![OOP](./images/oop.png)
 
 #### Encapsulation
@@ -22,12 +21,10 @@
 - point 3
 
 # Software Development Life Cycle # 
----
 ![SDLC](./images/sdlc.png)
 
 
 # System Design #
----
 ![System-Design](./images/systemdesign.jpeg)
 
 Helpful PDFs/ Articles
@@ -39,7 +36,6 @@ Courses
 - [System Design Course for Beginners - YouTube](https://www.youtube.com/watch?v=MbjObHmDbZo)
 
 # Data Structures & Algorithms # 
----
 ![Data Structures & Algorithms](./images/datastructuresalgorithms.png)
 
 Helpful PDFs/Articles
@@ -67,3 +63,5 @@ Courses
 #141 Linked List Cycle | [Problem Description](https://leetcode.com/problems/linked-list-cycle/) | Easy | Fast&Slow Pointer | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/LinkedListCycle.java) | 
 #21 Merge Two Sorted Lists | [Problem Description](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Merge Sort on LinkedList | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/MergeTwoSortedLists.java)
 #23 Merge K Lists | [Problem Description](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Merge Sort on LinkedList | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/MergeKLists.java)
+#19 Remove Nth Node from end of list | [Problem Description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Fast&Slow Pointer | [Java] |
+#143 Reorder List | [Problem Description](https://leetcode.com/problems/reorder-list/) | Medium | Fast&Slow Pointer | [Java] |
