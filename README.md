@@ -8,17 +8,17 @@
 - point 2
 - point 3
 #### Polymorphism
-- point 1
-- point 2
-- point 3
+- Lets assume there are methods with same method signature in classes in a class hierarchy (parent-child relationships), these methods are in different forms (this is known as method overriding).
+- Then when an object is assigned to a class reference and when a method of the object is called, the method in the object’s class is executed. Not the method of the reference class (if the reference is a parent class).
+- [Detailed Example](https://medium.com/@shanikae/polymorphism-explained-simply-7294c8deeef7)
 #### Abstraction
 - point 1
 - point 2
 - point 3
 #### Inheritance
-- point 1
-- point 2
-- point 3
+- Inheritance is a mechanism that allows one class to gain the properties of another class.
+- Inheritance allows programmers to create a new class that reuses the data members and methods of an existing class.
+- [Detailed Example](https://www.guru99.com/java-class-inheritance.html)
 
 # Software Development Life Cycle # 
 ![SDLC](./images/sdlc.png)
@@ -63,5 +63,5 @@ Courses
 #141 Linked List Cycle | [Problem Description](https://leetcode.com/problems/linked-list-cycle/) | Easy | Fast&Slow Pointer | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/LinkedListCycle.java) | 
 #21 Merge Two Sorted Lists | [Problem Description](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Merge Sort on LinkedList | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/MergeTwoSortedLists.java)
 #23 Merge K Lists | [Problem Description](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Merge Sort on LinkedList | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/MergeKLists.java)
-#19 Remove Nth Node from end of list | [Problem Description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Fast&Slow Pointer | [Java] |
-#143 Reorder List | [Problem Description](https://leetcode.com/problems/reorder-list/) | Medium | Fast&Slow Pointer | [Java] |
+#19 Remove Nth Node from end of list | [Problem Description](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | Fast&Slow Pointer | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/RemoveNthFromEnd.java) |
+#143 Reorder List | [Problem Description](https://leetcode.com/problems/reorder-list/) | Medium | Fast&Slow Pointer | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/LinkedList/ReorderList.java) |
