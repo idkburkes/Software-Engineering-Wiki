@@ -2,6 +2,11 @@ package Solutions.Tree;
 
 import java.util.Stack;
 
+/**
+ * Used Inorder Traversal
+ * 
+ * 
+ */
 public class ValidateBinarySearchTree {
     
 
@@ -19,17 +24,13 @@ public class ValidateBinarySearchTree {
                     stack.push(root); //Add every left child to stack
                     root = root.left;
                 }
-
                 root = stack.pop();
                 //Root should always be bigger than prev
                 if(prev != null && root.val <= prev.val) return false;
                 prev = root;
-                root = root.right;
+                root = root.right; //Execute iteratively on right child to make inorder 
 
-        }
-        
-        
-        
+        }  
         return true;
     }
 }
