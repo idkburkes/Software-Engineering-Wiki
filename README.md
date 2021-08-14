@@ -50,7 +50,7 @@ Courses
 
  Problem | Description  | Difficulty | Algorithm/Strategy Applied | Solution
 --- | --- | --- | --- | --- |
-#34 - Find First and Last Position of Element in Sorted Array | [Problem Description](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Binary Search |  [Java](https://leetcode.com/problems/linked-list-cycle/) |
+#34 - Find First and Last Position of Element in Sorted Array | [Problem Description](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Binary Search |  [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.java) |
 #215 - KthLargestElementInAnArray| [Problem Description](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | Quick Sort | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Solutions/QuickSort/KthLargestElementInAnArray.java)  |   
 #3 - Longest Substring without Repeating Characters    |  [Problem Description](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium  | Sliding Window | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Solutions/Sliding%20Window/LongestSubstringWithoutRepeatingCharacter.java) |  
 #151 - Reverse Words in a String | [Problem Description](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Sliding Window | [Java](https://github.com/idkburkes/Algorithm-Practice/blob/master/Solutions/Sliding%20Window/ReverseWordsInAString.java) |
@@ -71,3 +71,6 @@ Courses
 #102 Binary Tree Level Order Traversal | [Problem Description](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Breadth-First Search/ Post-Order Traversal | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/Tree/BinaryTreeLevelOrderTraversal.java) |
 #572 Subtree of Another Tree | [Problem Description](https://leetcode.com/problems/subtree-of-another-tree/) | Easy | Recursive Pre-Order Traversal | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/Tree/SubtreeOfAnotherTree.java) |
 #105 Construct Binary Tree from Inorder and Preorder Traversal | [Problem Description](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | Recursively build subtrees based on given traversal orders | [Java](https://github.com/idkburkes/Software-Engineering-Interview-Prep/blob/master/Solutions/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) |
+#98 Validate Binary Search Tree | [Problem Description](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | Iterative Inorder Traversal | [Java] |
+#94 Binary Tree Inorder Traversal | [Problem Description](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Inorder Traversal | [Java] |
+#230 Kth Smallest Element in a BST | [Problem Description](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Iterative Inorder Traversal | [Java] |

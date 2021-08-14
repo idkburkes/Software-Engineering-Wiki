@@ -1,5 +1,13 @@
 package Solutions.Tree;
 
+
+/**
+ * Given the roots of two binary trees root and subRoot, return true if there is a subtree of
+ * root with the same structure and node values of subRoot and false otherwise.
+ * 
+ * A subtree of a binary tree is a tree that consists of a node in tree and all of this
+ * 
+ */
 public class SubtreeOfAnotherTree {
     
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
