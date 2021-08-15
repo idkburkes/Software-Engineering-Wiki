@@ -76,4 +76,8 @@ Courses
 #230 Kth Smallest Element in a BST | [Problem Description](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | Iterative Inorder Traversal | [Java] |
 #235 Lowest Common Ancestor of Binary Search Tree | [Problem Description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Easy | BST Properties | [Java] |
 #235 Lowest Common Ancestor of Binary Tree | [Problem Description](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Recrusive Pre-Order Traversal | [Java] |
-#1 Two Sum | [Problem Description](https://leetcode.com/problems/two-sum/submissions/) | Easy | Dynamic Programming | [Java]
+#1 Two Sum | [Problem Description](https://leetcode.com/problems/two-sum/submissions/) | Easy | Dynamic Programming | [Java] |
+#121 Best Time to Buy and Sell Stock | [Problem Description](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Two Pointers | [Java] | 
+#217 Contains Duplicate | [Problem Description](https://leetcode.com/problems/contains-duplicate/) | Easy | Linear Traverse w/ Set | [Java] |
+#238. Product of Array Except Self | [Problem Description](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Dynamic Programming In-place | [Java]
+#53 Maximum Subarray | [Problem Description](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's Algorithm / Dynamic Programming | [Java]
