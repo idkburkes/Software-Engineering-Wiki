@@ -22,7 +22,7 @@ public class TwoSum {
      for(int i = 0; i < nums.length; i++) {
          //If the complement already exists in the map then return
          //Index of current value and index of complement.
-         int complement = target - nums[i]; 
+         int complement = target - nums[i];
             if(map.containsKey(complement)) { 
                 return new int[] { map.get(complement), i};
             } else {
