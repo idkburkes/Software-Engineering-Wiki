@@ -83,3 +83,4 @@ Courses
 #53 Maximum Subarray | [Problem Description](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's Algorithm / Dynamic Programming | [Java]
 #56 Merge Intervals | [Problem Description](https://leetcode.com/problems/merge-intervals/) | Medium | Merge Intervals | [Java] |
 #57 Insert Interval | [Problem Description](https://leetcode.com/problems/insert-interval/) | Medium | Merge Intervals | [Java] |
+#435 Non-overlapping Intervals | [Problem Description](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | Merge Intervals | [Java] |
