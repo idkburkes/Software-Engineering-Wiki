@@ -81,3 +81,5 @@ Courses
 #217 Contains Duplicate | [Problem Description](https://leetcode.com/problems/contains-duplicate/) | Easy | Linear Traverse w/ Set | [Java] |
 #238. Product of Array Except Self | [Problem Description](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Dynamic Programming In-place | [Java]
 #53 Maximum Subarray | [Problem Description](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's Algorithm / Dynamic Programming | [Java]
+#56 Merge Intervals | [Problem Description](https://leetcode.com/problems/merge-intervals/) | Medium | Merge Intervals | [Java] |
+#57 Insert Interval | [Problem Description](https://leetcode.com/problems/insert-interval/) | Medium | Merge Intervals | [Java] |
