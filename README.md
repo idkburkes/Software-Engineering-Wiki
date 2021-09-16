@@ -4,17 +4,15 @@
 ![OOP](./images/oop.png)
 
 #### Encapsulation
-- point 1
-- point 2
-- point 3
+- Encapsulation is used to hide the values or state of a structured data object inside a class, preventing direct access to them by clients in a way that could expose hidden implementation details or violate state invariance maintained by the methods.
+
 #### Polymorphism
 - Lets assume there are methods with same method signature in classes in a class hierarchy (parent-child relationships), these methods are in different forms (this is known as method overriding).
 - Then when an object is assigned to a class reference and when a method of the object is called, the method in the object’s class is executed. Not the method of the reference class (if the reference is a parent class).
 - [Detailed Example](https://medium.com/@shanikae/polymorphism-explained-simply-7294c8deeef7)
 #### Abstraction
-- point 1
-- point 2
-- point 3
+- Programming methodology in which details of the programming codes are hidden away from the user, and only the essential things are displayed to the user.
+
 #### Inheritance
 - Inheritance is a mechanism that allows one class to gain the properties of another class.
 - Inheritance allows programmers to create a new class that reuses the data members and methods of an existing class.
